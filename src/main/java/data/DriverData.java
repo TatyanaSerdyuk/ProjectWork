@@ -1,2 +1,8 @@
-package data;public class DriverData {
+package data;
+
+public enum DriverData {
+    CHROME,
+    OPERA,
+    FIREFOX;
+
 }
